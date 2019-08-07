@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1565172168232,
+  "timestamp": 1565173150149,
   "index": "/codex-angular/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "/codex-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/codex-angular/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/codex-angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/codex-angular/index.html": "591ba8529372e26afef6675ebe66c3b89131d34b",
+    "/codex-angular/index.html": "a642bcc0f02c2d3f1da2fd66da799d5ab30ab3f1",
     "/codex-angular/main.5c2f772d365696334101.js": "3428225af134627889076b87f0fc12a837c48b19",
     "/codex-angular/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/codex-angular/runtime.7b49365ca3af238c4437.js": "661a4dff67c1cb3ee125fcfa164e4e10cab3ab9f",
